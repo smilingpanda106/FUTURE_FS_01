@@ -53,16 +53,6 @@ FUTURE_FS_01
 
 ---
 
-## Live Website
-
-Add your GitHub Pages link here after deployment.
-
-Example:
-
-https://yourusername.github.io/FUTURE_FS_01/
-
----
-
 ## Author
 
 VISARAPU HEMA SATYA SRI
